@@ -2,7 +2,7 @@
 
 `区块链🔗` / `智能合约📃` / `程序开发🐵` 
 
-`Solidty🦏` /  `MoveⓂ🐎` /  `Rust🐯` /  `TypeScript🐘` /  `Node🐣` /  `Linux🦘` /  `Python🦎` 
+`Solidty🦏` /  `Move🐎` /  `Rust🐯` /  `TypeScript🐘` /  `Node🐣` /  `Linux🦘` /  `Python🦎` 
 
 `Hardhat👑` /  `FISCO BCOS📕` /  `Vue3🐼` /  `React🐻‍❄️` /  `Express🐧`/  `Docker🐋` /  `Flask🦅` 
 
