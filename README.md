@@ -1,10 +1,10 @@
 ## ⚡ Label
 
-`区块链🔗` / `智能合约📃` / `程序开发🐵` /
+`区块链🔗` / `智能合约📃` / `程序开发🐵` 
 
-`Solidty🦏` / `TypeScript🐘` / `Node🐣` /  `Linux🦘` / `Python🦎` /  `Go🐎` / 
+`Solidty🦏` /  `MoveⓂ🐎` /  `Rust🐯` /  `TypeScript🐘` /  `Node🐣` /  `Linux🦘` /  `Python🦎` 
 
-`Hardhat👑` / `FISCO BCOS📕` / `Vue3🐼` / `React🐻‍❄️` / `Express🐧`/ `Docker🐋` / `Flask🦅` / 
+`Hardhat👑` /  `FISCO BCOS📕` /  `Vue3🐼` /  `React🐻‍❄️` /  `Express🐧`/  `Docker🐋` /  `Flask🦅` 
 
 
 
