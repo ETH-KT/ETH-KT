@@ -20,5 +20,5 @@
 
 ## 📈Contribute
 
-[![KT's github stats](https://github-readme-stats.vercel.app/api?username=Blockchain-Key&count_private=true&show_icons=true&theme=onedark)](https://blog.csdn.net/weixin_43402353)
-
+![KT's github stats](https://github-readme-stats.vercel.app/api?username=ETH-KT&count_private=true&show_icons=true&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ETH-KT&count_private=true&show_icons=true&theme=tokyonight)
