@@ -2,9 +2,9 @@
 
 `区块链🔗` / `智能合约📃` / `程序开发🐵` 
 
-`Solidty🦏` /  `Move🐎` /  `Rust🐯` /  `TypeScript🐘` /  `Node🐣` /  `Linux🦘` /  `Python🦎` 
+`Solidty🦏` /  `Move🐎` /  `Rust🐯` /  `TypeScript🐘` /  `Node🐣` /  `Linux🦘` /  `Go🐹` 
 
-`Hardhat👑` /  `FISCO BCOS📕` /  `Vue3🐼` /  `React🐻‍❄️` /  `Express🐧`/  `Docker🐋` /  `Flask🦅` 
+`Hardhat👑` /  `FISCO BCOS📕` /  `Vue3🐼` /  `React🐻‍❄️` /  `Express🐧`/  `Docker🐋` /  `Gin🐻` 
 
 
 
@@ -14,7 +14,7 @@
 
 > 🥇**Blog:** https://blog.csdn.net/weixin_43402353
 >
-> 🥈**GitHub:** https://github.com/Blockchain-Key
+> 🥈**GitHub:** https://github.com/ETH-KT
 >
 > 🥉**Discode:** Blockchain_Key#4156
 
