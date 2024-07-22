@@ -12,11 +12,11 @@
 
 ## 📡Contact Me
 
-> 🥇**Blog:** https://blog.csdn.net/weixin_43402353
+> 🥇**GitHub:** https://github.com/ETH-KT
 >
-> 🥈**GitHub:** https://github.com/ETH-KT
+> 🥈**TG:** 
 >
-> 🥉**Discode:** Blockchain_Key#4156
+> 🥉**Discode:**
 
 ## 📈Contribute
 
